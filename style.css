@@ -1,0 +1,226 @@
+header{
+    display: flex;
+    padding-left: 10px;
+}
+header nav ul{
+    display: flex;
+    gap: 20px;
+    list-style: none;
+}
+header nav ul a{
+    text-decoration: none;
+    color: grey;
+}
+button{
+    color: white;
+    background-color: blue;
+    border-radius: 20px;
+}
+.part1{
+    text-align: center;
+    margin-top: 20px;
+}
+.part2{
+    display: flex;
+    gap: 20px;
+    justify-self: center;
+    background-color: darkgray;
+    border-radius: 30px;
+}
+.pt1{
+    display: flex;
+    gap: 20px;
+    margin-top: 20px;
+    background-color: whitesmoke;
+    border-radius: 50px;
+}
+
+.pt2{
+    display: flex;
+    gap: 20px;
+    margin-top: 20px;
+    background-color: whitesmoke;
+    border-radius: 50px;
+}
+
+.pt3{
+    display: flex;
+    gap: 20px;
+    margin-top: 20px;
+    background-color: whitesmoke;
+    border-radius: 50px;
+}
+
+
+.pt4{
+    display: flex;
+    gap: 20px;
+    margin-top: 20px;
+    background-color: whitesmoke;
+    border-radius: 50px;
+}
+
+.pt5{
+    display: flex;
+    gap: 20px;
+    margin-top: 20px;
+    background-color: whitesmoke;
+    border-radius: 50px;
+}
+.pt6{
+    display: flex;
+    gap: 20px;
+    margin-top: 20px;
+    background-color: whitesmoke;
+    border-radius: 50px;
+}
+.pt7{
+    display: flex;
+    gap: 20px;
+    margin-top: 20px;
+    background-color: whitesmoke;
+    border-radius: 50px;
+}
+.pt8{
+    display: flex;
+    gap: 20px;
+    margin-top: 20px;
+    background-color: whitesmoke;
+    border-radius: 50px;
+}
+.pt9{
+    display: flex;
+    gap: 20px;
+    margin-top: 20px;
+    background-color: whitesmoke;
+    border-radius: 50px;
+}
+.pt10{
+    display: flex;
+    gap: 20px;
+    margin-top: 20px;
+    background-color: whitesmoke;
+    border-radius: 50px;
+}
+.pt11{
+    display: flex;
+    gap: 20px;
+    margin-top: 20px;
+    background-color: whitesmoke;
+    border-radius: 50px;
+}
+.pt12{
+    display: flex;
+    gap: 20px;
+    margin-top: 20px;
+    background-color: whitesmoke;
+    border-radius: 50px;
+}
+
+.pt13{
+    display: flex;
+    gap: 20px;
+    margin-top: 20px;
+    background-color: whitesmoke;
+    border-radius: 50px;
+}
+.pt14{
+    display: flex;
+    gap: 20px;
+    margin-top: 20px;
+    background-color: whitesmoke;
+    border-radius: 50px;
+}
+.pt15{
+    display: flex;
+    gap: 20px;
+    margin-top: 20px;
+    background-color: whitesmoke;
+    border-radius: 50px;
+}
+.pt16{
+    display: flex;
+    gap: 20px;
+    margin-top: 20px;
+    background-color: whitesmoke;
+    border-radius: 50px;
+}
+.pt17{
+    display: flex;
+    gap: 20px;
+    margin-top: 20px;
+    background-color: whitesmoke;
+    border-radius: 50px;
+}
+.pt18{
+    display: flex;
+    gap: 20px;
+    margin-top: 20px;
+    background-color: whitesmoke;
+    border-radius: 50px;
+}
+.pt19{
+    display: flex;
+    gap: 20px;
+    margin-top: 20px;
+    background-color: whitesmoke;
+    border-radius: 50px;
+}
+.pt20{
+    display: flex;
+    gap: 20px;
+    margin-top: 20px;
+    background-color: whitesmoke;
+    border-radius: 50px;
+}
+.pt21{
+    display: flex;
+    gap: 20px;
+    margin-top: 20px;
+    background-color: whitesmoke;
+    border-radius: 50px;
+}
+.part3{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    background-color: grey
+}
+.part4{
+    display: flex;
+    margin-top: 50px;
+    gap: 30px;
+    justify-self: center;
+    background-color: darkgray;
+    border-radius: 10px;
+}
+.part5{
+    text-align: center;
+    margin-top: 150px;
+}
+.m1{
+    display: flex;
+    gap: 20px;
+    background-color: beige;
+    border-radius: 50px;
+}
+.m2{
+    display: flex;
+    gap: 20px;
+    background-color: beige;
+    border-radius: 50px;
+}
+.m3{
+    display: flex;
+    gap: 20px;
+    background-color: beige;
+    border-radius: 50px;
+}
+.part6{
+    display: grid;
+    grid-template-columns: repeat(3,1fr); 
+    margin-top: 70px;
+}
+footer{
+    margin-top: 50px;
+    text-align: end;
+}
